@@ -4,12 +4,6 @@
 
 <br/>
 
-<a href="mailto:valtirensystems@gmail.com"><img src="https://img.shields.io/badge/Email-0B1626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2989D2"/></a>
-<a href="https://valtirensystems.com"><img src="https://img.shields.io/badge/Website-0B1626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2989D2"/></a>
-<a href="https://www.linkedin.com/company/valtiren-systems/"><img src="https://img.shields.io/badge/LinkedIn-0B1626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2989D2"/></a>
-<img src="https://img.shields.io/badge/📍_Da_Nang%2C_Vietnam-0B1626?style=for-the-badge&labelColor=2989D2"/>
-<img src="https://komarev.com/ghpvc/?username=valtiren-harry&style=for-the-badge&color=2989D2&labelColor=0B1626&label=VIEWS"/>
-
 </div>
 
 <br/>
